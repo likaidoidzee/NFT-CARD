@@ -16,7 +16,7 @@ function App() {
       </div>
 
       <div className="content1">
-        <img className="icon1" src="./shape.png"/>
+        <img className="icon1" src="./Shape.png"/>
         <p className="text1">0.041 ETH</p>
       
       </div>
